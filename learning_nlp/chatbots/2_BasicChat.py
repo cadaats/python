@@ -1,3 +1,6 @@
+bot_template = "BOT : {0}"
+user_template = "USER : {0}"
+
 # Define variables
 name = "Greg"
 weather = "cloudy"

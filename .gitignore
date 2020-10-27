@@ -98,3 +98,5 @@ outout/queue
 # custom
 .pytest_cache
 rasa/
+learning_nlp/archive.zip
+learning_nlp/data/
